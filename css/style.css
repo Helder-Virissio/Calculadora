@@ -1,0 +1,35 @@
+body { 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    background-color: #f0f0f0; 
+}
+.calculadora { 
+    background-color: #33333386;
+    padding: 15px; 
+    border-radius: 20px; 
+}
+#display { 
+    width: 250px; 
+    height: 60px; 
+    text-align: right; 
+    margin-bottom: 10px; 
+    font-size: 22px; 
+}
+.buttons { 
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px; 
+}
+button { 
+    padding: 15px; 
+    font-size: 18px; 
+    cursor: pointer; 
+}
+.igual { 
+    grid-column: span 2; 
+    background-color: rgb(127, 255, 8); 
+    color: white; 
+    border: none; 
+}
