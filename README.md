@@ -1,13 +1,14 @@
 # Calculadora
-Calculadora criada em html, js e css. 
+Calculadora criada em html, js e css. <p>
 
-Essa calculadora é com intuito de aprendizado na utilização de Export e import de funções de outras pastas.
+Essa calculadora é com intuito de aprendizado na utilização de Export e import de funções de outras pastas. <p>
 
-Feito por:
-Helder Virissio Araujo 
-Luiz Fernando Menezes
+Feito por: <p>
+Helder Virissio Araujo <p>
+Luiz Fernando Menezes<p>
 
-Professor:
-Bruno Zolotareff Dos Santos
+Professor:<p>
+Bruno Zolotareff Dos Santos<p>
 
-Instituição: Fatec Luigi Papaiz - Diadema - SP
+Instituição: <p> 
+Fatec Luigi Papaiz - Diadema - SP<p>
