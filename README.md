@@ -1,5 +1,7 @@
 # Calculadora
-Calculadora criada em html, js e css. Com funções import e export.
+Calculadora criada em html, js e css. 
+
+Essa calculadora é com intuito de aprendizado na utilização de Export e import de funções de outras pastas.
 
 Feito por:
 Helder Virissio Araujo 
